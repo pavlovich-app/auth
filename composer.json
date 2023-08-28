@@ -2,14 +2,13 @@
 	"name": "pavlovich-app/yii2-social-login",
 	"description": "Yii2 Social Login Extension. (Google, Facebook, Linkedin, Twitter, etc).",
 	"keywords": ["yii2", "extension", "login", "openid", "oauth", "authentication"],
-	"homepage": "https://github.com/Nodge/yii2-eauth",
+	"homepage": "https://github.com/pavlovich-app/yii2-social-login",
 	"type": "yii2-extension",
 	"license": "New BSD License",
 	"authors": [
 		{
 			"name": "Oleksandr Pavlovych",
 			"email": "pavlovych.dev@gmail.com",
-			"homepage": "https://github.com/pavlovich-app/yii2-social-login"
 		}
 	],
 	"support": {
