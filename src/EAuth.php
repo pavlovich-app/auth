@@ -51,7 +51,7 @@ class EAuth extends BaseObject
 	 * @var array TokenStorage class.
 	 */
 	protected $tokenStorage = [
-		'class' => 'nodge\eauth\oauth\SessionTokenStorage',
+		'class' => 'nodge\eauth\oauth\SessionTokenStorageAuth',
 	];
 
 	/**

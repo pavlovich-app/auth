@@ -18,7 +18,7 @@ use OAuth\Common\Storage\Exception\AuthorizationStateNotFoundException;
 /**
  * Stores a token in a PHP session.
  */
-class SessionTokenStorage implements TokenStorageInterface
+class SessionTokenStorageAuth implements TokenStorageInterface
 {
 
 	const SESSION_TOKEN_PREFIX = 'eauth-token-';
