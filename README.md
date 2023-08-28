@@ -1,1 +1,1 @@
-composer
+composer require pavlovich-app/yii2-social-login
