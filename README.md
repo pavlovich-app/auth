@@ -1,7 +1,7 @@
 Yii2 EAuth extension
 ====================
 ````
-composer require kurstoday/api
+composer require pavlovich-app/yii2-social-login
 ````
 EAuth extension allows to authenticate users with accounts on other websites.
 Supported protocols: OpenID, OAuth 1.0 and OAuth 2.0.
