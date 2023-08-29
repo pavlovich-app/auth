@@ -474,8 +474,3 @@ To use translations, add the following in your config:
 ```
 
 Available translations can be found in `@eauth/src/messages`.
-
-
-# License
-
-The extension was released under the [New BSD License](http://www.opensource.org/licenses/bsd-license.php), so you'll find the latest version on [GitHub](https://github.com/Nodge/yii2-eauth).
