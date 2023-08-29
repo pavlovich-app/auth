@@ -91,11 +91,6 @@ $ php composer.phar install
 
 # Usage
 
-## Demo project
-
-The source code of the [demo](http://nodge.ru/yii-eauth/demo2/) is available [here](https://github.com/Nodge/yii2-eauth-demo/).
-
-
 ## Basic setup
 
 ### Configuration
